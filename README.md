@@ -1,6 +1,5 @@
 Machine Learning Basics Project
 
-Overview
 This project serves as an introduction to machine learning concepts using Python libraries. We’ll cover data preprocessing, visualization, and basic machine learning models.
 
 Installation and Setup
