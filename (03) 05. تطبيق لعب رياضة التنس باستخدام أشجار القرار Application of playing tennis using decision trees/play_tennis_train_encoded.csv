@@ -1,0 +1,15 @@
+,day,outlook,temp,humidity,wind,play,outlook_num,temp_num,humidity_num,wind_num,play_num
+0,D1,Sunny,Hot,High,Weak,No,2,1,0,1,0
+1,D2,Sunny,Hot,High,Strong,No,2,1,0,0,0
+2,D3,Overcast,Hot,High,Weak,Yes,0,1,0,1,1
+3,D4,Rain,Mild,High,Weak,Yes,1,2,0,1,1
+4,D5,Rain,Cool,Normal,Weak,Yes,1,0,1,1,1
+5,D6,Rain,Cool,Normal,Strong,No,1,0,1,0,0
+6,D7,Overcast,Cool,Normal,Strong,Yes,0,0,1,0,1
+7,D8,Sunny,Mild,High,Weak,No,2,2,0,1,0
+8,D9,Sunny,Cool,Normal,Weak,Yes,2,0,1,1,1
+9,D10,Rain,Mild,Normal,Weak,Yes,1,2,1,1,1
+10,D11,Sunny,Mild,Normal,Strong,Yes,2,2,1,0,1
+11,D12,Overcast,Mild,High,Strong,Yes,0,2,0,0,1
+12,D13,Overcast,Hot,Normal,Weak,Yes,0,1,1,1,1
+13,D14,Rain,Mild,High,Strong,No,1,2,0,0,0

@@ -1,0 +1,15 @@
+day,outlook,temp,humidity,wind,play
+D1,Sunny,65,81,Weak,No
+D2,Sunny,72,89,Strong,No
+D3,Overcast,65,70,Weak,Yes
+D4,Rain,66,70,Weak,Yes
+D5,Rain,70,78,Weak,Yes
+D6,Rain,72,94,Strong,No
+D7,Overcast,70,80,Strong,Yes
+D8,Sunny,81,94,Weak,No
+D9,Sunny,72,80,Weak,Yes
+D10,Rain,78,90,Weak,Yes
+D11,Sunny,83,90,Strong,Yes
+D12,Overcast,73,62,Strong,Yes
+D13,Overcast,80,91,Weak,Yes
+D14,Rain,85,95,Strong,No
